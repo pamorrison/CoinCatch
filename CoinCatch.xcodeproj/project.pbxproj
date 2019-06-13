@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		CE8607132206602500E01861 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = CE8607122206602500E01861 /* main.cpp */; };
+		CE8607132206602500E01861 /* CoinCatch.cpp in Sources */ = {isa = PBXBuildFile; fileRef = CE8607122206602500E01861 /* CoinCatch.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		CE86070F2206602500E01861 /* CoinCatch */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CoinCatch; sourceTree = BUILT_PRODUCTS_DIR; };
-		CE8607122206602500E01861 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		CE8607122206602500E01861 /* CoinCatch.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = CoinCatch.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		CE8607112206602500E01861 /* CoinCatch */ = {
 			isa = PBXGroup;
 			children = (
-				CE8607122206602500E01861 /* main.cpp */,
+				CE8607122206602500E01861 /* CoinCatch.cpp */,
 			);
 			path = CoinCatch;
 			sourceTree = "<group>";
@@ -118,7 +118,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CE8607132206602500E01861 /* main.cpp in Sources */,
+				CE8607132206602500E01861 /* CoinCatch.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
